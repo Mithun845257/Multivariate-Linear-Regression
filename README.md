@@ -94,7 +94,6 @@ plt.show()
 ## Output:
 <img width="640" height="551" alt="image" src="https://github.com/user-attachments/assets/6a3ead82-0bf9-47cf-b870-373b572da938" />
 
-### Insert your output
 
 <br>
 
